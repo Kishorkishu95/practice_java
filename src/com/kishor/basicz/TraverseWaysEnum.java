@@ -2,6 +2,7 @@ package com.kishor.basicz;
 
 import java.util.Arrays;
 import java.util.EnumSet;
+import java.util.Optional;
 import java.util.stream.Stream;
 
 public class TraverseWaysEnum {
@@ -28,5 +29,6 @@ public class TraverseWaysEnum {
         }
         System.out.println("4th way - Using Stream()");
         Stream.of(Seasons.values()).forEach(season -> System.out.println(season) );
+
     }
 }

@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="" />
+    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Added logic programs.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum$Seasons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum$Seasons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/TraverseWaysEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/TraverseWaysEnum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2C9zQdgLO6QlhNdBUCzADJ1ZlPk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,17 +35,111 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kisho\IdeaProjects\arrays_java\src\com\kishor\basicz" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kishor.basicz" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StreamSortInDesc">
+    <configuration name="StreamCharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamCharCount" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamFirstNonRepeatedCharFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamFirstNonRepeatedCharFinder" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMaxFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamMaxFinder" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamSortInDesc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamSortInDesc" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamStartsWith1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamStartsWith1" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamSortInDesc" />
+        <item itemvalue="Application.StreamFirstNonRepeatedCharFinder" />
+        <item itemvalue="Application.StreamMaxFinder" />
+        <item itemvalue="Application.StreamStartsWith1" />
+        <item itemvalue="Application.StreamCharCount" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="" />
       <created>1658229606931</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658229606931</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added logic programs.">
+      <created>1659503003586</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659503003586</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -42,5 +152,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added logic programs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added logic programs." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_341/src.zip!/java/lang/String.java</url>
+          <line>1153</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
