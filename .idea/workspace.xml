@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Added logic programs.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum$Seasons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum$Seasons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/TraverseWaysEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/TraverseWaysEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/TraverseWaysEnum.java" afterDir="false" />
-    </list>
+    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Added more programs on Stream API." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -139,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659503003586</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added more programs on Stream API.">
+      <created>1660196792283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660196792283</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added logic programs." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added logic programs." />
+    <MESSAGE value="Added more programs on Stream API." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added more programs on Stream API." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
