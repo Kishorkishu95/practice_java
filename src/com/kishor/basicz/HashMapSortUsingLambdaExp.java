@@ -3,6 +3,7 @@ package com.kishor.basicz;
 import java.util.*;
 
 public class HashMapSortUsingLambdaExp {
+
     public static void main(String[] args) {
         Map<String,Integer> map=new HashMap<>();
         map.put("Kishor",522);
