@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Added more programs on Stream API.">
+    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Adding java interview qas - oops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/HashMapSortUsingLambdaExp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/HashMapSortUsingLambdaExp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/OptionalCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/OptionalCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/HashMapSortUsingLambdaExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/HashMapSortUsingLambdaExp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +45,35 @@
       <recent name="com.kishor.basicz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimePolymorphismTest">
-    <configuration name="RuntimePolymorphismTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.RuntimePolymorphismTest" />
+  <component name="RunManager" selected="Application.MedianFinder">
+    <configuration name="Bbb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.Bbb" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.MedianFinder" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.RandomGen" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -73,19 +98,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kishor.basicz.InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.InterfaceTest" />
-      <module name="arrays_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.kishor.basicz.MethodOverloadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.MethodOverloadTest" />
       <module name="arrays_java" />
@@ -99,26 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kishor.basicz.ThisKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.ThisKeyword" />
-      <module name="arrays_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RuntimePolymorphismTest" />
-        <item itemvalue="Application.SuperKeywordTest" />
+        <item itemvalue="Application.MedianFinder" />
+        <item itemvalue="Application.RandomGen" />
+        <item itemvalue="Application.Bbb" />
         <item itemvalue="Application.com.kishor.basicz.MethodOverloadTest" />
-        <item itemvalue="Application.com.kishor.basicz.ThisKeyword" />
-        <item itemvalue="Application.com.kishor.basicz.InterfaceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +150,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660196993628</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding java interview qas">
+      <created>1660627179348</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660627179348</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding java interview qas - oops">
+      <created>1660627365479</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660627365479</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +181,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added logic programs." />
     <MESSAGE value="Added more programs on Stream API." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more programs on Stream API." />
+    <MESSAGE value="Adding java interview qas" />
+    <MESSAGE value="Adding java interview qas - oops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding java interview qas - oops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
