@@ -1,8 +1,10 @@
 package com.kishor.basicz;
 
 import java.util.Arrays;
+import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class StreamApiOps {
     public static void main(String[] args) {
@@ -18,6 +20,7 @@ public class StreamApiOps {
         List<String> namesList=Arrays.asList("Kishu","Ashwath","Vini","Sandy","Anu","Sagar","Reshma");
         List<String> sortedNames=namesList.stream().sorted().collect(Collectors.toList());
         System.out.println(sortedNames);
+        
 
 
     }

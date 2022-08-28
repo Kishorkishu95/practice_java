@@ -32,7 +32,7 @@ public class StreamTestMain {
         List<Integer> ls = intStreams.filter(s -> s % 2 == 0).collect(Collectors.toList());
         // System.out.println(ls);
         // Collecting as an array
-//        int[] ints= intStreams.filter(m->m%2==0).mapToInt(x->x).toArray();
+        int[] ints= intStreams.filter(m->m%2==0).mapToInt(x->x).toArray();
 //        for(int e:ints){
 //            System.out.print(e+", ");
 //        }

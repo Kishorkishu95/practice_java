@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Adding java interview qas - oops">
+    <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Adding java interview qas - basics">
+      <change afterPath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/HashMapSortUsingLambdaExp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arrays_java/com/kishor/basicz/HashMapSortUsingLambdaExp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/StreamTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/StreamTestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +47,9 @@
       <recent name="com.kishor.basicz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MedianFinder">
-    <configuration name="Bbb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.Bbb" />
+  <component name="RunManager" selected="Application.FileRead">
+    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FileRead" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.MedianFinder" />
+    <configuration name="FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FileWrite" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.RandomGen" />
+    <configuration name="FindVowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FindVowelsCount" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuperKeywordTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.SuperKeywordTest" />
+    <configuration name="TestHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.TestHashSet" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.kishor.basicz.MethodOverloadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.MethodOverloadTest" />
+    <configuration name="TestVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.TestVector" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
@@ -113,10 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MedianFinder" />
-        <item itemvalue="Application.RandomGen" />
-        <item itemvalue="Application.Bbb" />
-        <item itemvalue="Application.com.kishor.basicz.MethodOverloadTest" />
+        <item itemvalue="Application.FileRead" />
+        <item itemvalue="Application.FileWrite" />
+        <item itemvalue="Application.FindVowelsCount" />
+        <item itemvalue="Application.TestVector" />
+        <item itemvalue="Application.TestHashSet" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660627365479</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adding java interview qas - basics">
+      <created>1661229124822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661229124822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +193,8 @@
     <MESSAGE value="Added more programs on Stream API." />
     <MESSAGE value="Adding java interview qas" />
     <MESSAGE value="Adding java interview qas - oops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding java interview qas - oops" />
+    <MESSAGE value="Adding java interview qas - basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding java interview qas - basics" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
