@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Adding java interview qas - basics">
-      <change afterPath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/StreamTestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/StreamTestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +39,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kishor.basicz" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kisho\IdeaProjects\arrays_java\src\com\kishor\basicz" />
     </key>
@@ -47,13 +49,13 @@
       <recent name="com.kishor.basicz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FileRead">
-    <configuration name="FileRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FileRead" />
+  <component name="RunManager" selected="Application.Exception1">
+    <configuration name="ConstructorTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.ConstructorTestMain" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="PATTERN" value="com.kishor.concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FileWrite" />
+    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.Exception1" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="PATTERN" value="com.kishor.concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindVowelsCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.FindVowelsCount" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.Main" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="PATTERN" value="com.kishor.concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.TestHashSet" />
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.StaticTest" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="PATTERN" value="com.kishor.concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.TestVector" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.Student" />
       <module name="arrays_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="PATTERN" value="com.kishor.concepts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileRead" />
-        <item itemvalue="Application.FileWrite" />
-        <item itemvalue="Application.FindVowelsCount" />
-        <item itemvalue="Application.TestVector" />
-        <item itemvalue="Application.TestHashSet" />
+        <item itemvalue="Application.Exception1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.ConstructorTestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661229124822</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding java interview qas - basics">
+      <created>1661705342206</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661705342206</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +217,11 @@
           <url>file://$PROJECT_DIR$/src/com/kishor/basicz/RuntimePolymorphismTest.java</url>
           <line>5</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kishor/concepts/Exception1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/com/kishor/basicz/Parent.java</url>

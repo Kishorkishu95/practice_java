@@ -4,7 +4,8 @@ import java.util.HashMap;
 
 public class FindVowelsCount {
     public static void main(String[] args) {
-        String str = "a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.".toUpperCase();
+        String str = ("a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, " +
+                "question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.").toUpperCase();
         int vCount = 0;
         System.out.println(str.length());
         HashMap<Character, Integer> cc = new HashMap<>();
