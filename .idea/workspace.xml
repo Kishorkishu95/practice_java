@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1fd37a95-49e5-495e-b7f6-e7e5da15deb7" name="Changes" comment="Adding java interview qas - basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/FindVowelsCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/kishor/basicz/StreamApiOps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +47,7 @@
       <recent name="com.kishor.basicz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exception1">
-    <configuration name="ConstructorTestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.ConstructorTestMain" />
-      <module name="arrays_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kishor.concepts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamS">
     <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.Exception1" />
       <module name="arrays_java" />
@@ -102,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kishor.basicz.StreamS" />
+      <module name="arrays_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kishor.basicz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kishor.concepts.Student" />
       <module name="arrays_java" />
@@ -117,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamS" />
         <item itemvalue="Application.Exception1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.StaticTest" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.ConstructorTestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661705342206</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adding java interview qas - basics">
+      <created>1662391649738</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662391649738</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
